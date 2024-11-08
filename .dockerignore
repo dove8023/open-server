@@ -1,0 +1,12 @@
+node_modules/
+.env*
+.git/
+.gitignore
+logs/
+test/
+LICENSE
+sql/
+tmp/
+dist/
+mytest/
+.editorconfig
